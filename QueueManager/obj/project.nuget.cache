@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRKtbSK7rhFydtr4rVh/SQMRrE/Dzwk/bqzJbyGh+V2Uo7H/JvNq3hP8JtALQMBT7aZhNTUpdxyZtiUAHvFe5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoga 260\\source\\repos\\QueueManager\\QueueManager\\QueueManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoga 260\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Yoga 260\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Yoga 260\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Yoga 260\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
